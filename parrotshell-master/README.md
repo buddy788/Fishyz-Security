@@ -12,7 +12,7 @@ With the help of this tool you can change your termux shell to look like parrot 
 
 `$ pkg install git -y`
 
-`$ git clone https://github.com/termuxprofessor/parrotshell`
+`$ git clone https://github.com/buddy788/Fishyz-Security/tree/main/parrotshell-master`
 
 `$ cd parrotshell`
 
